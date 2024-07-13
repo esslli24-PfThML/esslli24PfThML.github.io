@@ -10,14 +10,19 @@ This webpage is currently under construction!
 ## Course material 
 
 ### Lecture 1
+To be updated. 
 
 ### Lecture 2
+To be updated. 
 
 ### Lecture 3
+To be updated. 
 
 ### Lecture 4
+To be updated. 
 
 ### Lecture 5
+To be updated. 
 
 
 ## References 
