@@ -17,7 +17,7 @@ This webpage contains material and references for the ESSLLI2024 advanced course
 
 
 ## Course material <a name="material"></a>
-The course material will be regularly updated throughout the course. 
+The material will be regularly updated throughout the course. 
 
 ### Lecture 1 - Sequent Calculi <a name="l1"></a>
 #### Slides
@@ -63,7 +63,7 @@ To be updated.
 
 
 ## Prerequisites <a name="pre"></a>
-We only assume some basic familiarity with sequent calculus and modal logics. We will introduce both topics, recalling the main notions used throughout the course, in Lecture 1. To learn more about sequent calculus and proof theory, you can attend the introductory course Linear Logic, which will also take place in Week 2 of ESSLLI24. 
+We only assume some basic familiarity with sequent calculus and modal logics. We will briefly introduce both topics, recalling the main notions used throughout the course, in Lecture 1. To learn more about sequent calculus and proof theory, you can attend the introductory course Linear Logic, which will also take place in Week 2 of ESSLLI24. 
 
 #### References
 There are several textbooks and resources that introduce modal logics. You could have a look at one of the following:
