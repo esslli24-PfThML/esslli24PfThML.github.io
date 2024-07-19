@@ -5,23 +5,13 @@
 
 This webpage contains material and references for the ESSLLI2024 advanced course Proof Theory of Modal Logic. The course will take place in Week 2 (5-9 August 2024) and consists of five 90-minutes lectures. As course material, we use the slides of the lectures and, possibly, some handouts. The slides of each lecture will contain some exercises that you are encouraged to try to solve! 
 
-
-## Prerequisites 
-We only assume some basic familiarity with sequent calculus and modal logics. We will introduce both topics, recalling the main notions used throughout the course, in Lecture 1. To learn more about sequent calculus and proof theory, you can attend the introductory course Linear Logic, which will also take place in Week 2 of ESSLLI24. 
-
-We report here some (hopefully useful) references. 
-
-There are several textbooks and resources that introduce modal logics. You could have a look at one of the following:
-- The Stanford Encyclopedia entry for "Modal logics" ([link](https://seop.illc.uva.nl/entries/logic-modal/)).
-- van Benthem, Modal logic for open minds, Stanford: Center for the Study of Language and Information, 2010.
-- Blackburn, de Rijke and Venema, Modal Logic, Cambridge University Press, 2001 (only the first chapters will be relevant for the course). 
-
-For an introduction to proof theory, you can refer to:
-- Mancosu, Galvan and Zach, An introduction to proof theory, Oxford University Press, 2021. 
-- Troelstra and Schwichtenberg, Basic proof theory, Cambridge University Press, 2000 (only chapters 3 and 4 are relevant for the course).
+## Table of Contents
+- [Course material](#material)
+- [Prerequisites](#pre)
+- [Contacts](#contacts)
 
 
-## Course material 
+## Course material <a name="material"></a>
 The course material will be regularly updated throughout the course. 
 
 ### Lecture 1 - Sequent calculi 
@@ -66,8 +56,25 @@ To be updated.
 #### References 
 To be updated. 
 
-## Contacts 
-For any questions or comment, you can use the ESSLLI discord server, or reach out to us at m.girlando _at_ uva _dot_ nl and tiziano.dalmonte _at_ unibz _dot_ it 
+
+## Prerequisites <a name="pre"></a>
+We only assume some basic familiarity with sequent calculus and modal logics. We will introduce both topics, recalling the main notions used throughout the course, in Lecture 1. To learn more about sequent calculus and proof theory, you can attend the introductory course Linear Logic, which will also take place in Week 2 of ESSLLI24. 
+
+#### References
+There are several textbooks and resources that introduce modal logics. You could have a look at one of the following:
+- The Stanford Encyclopedia entry for "Modal logics" ([link](https://seop.illc.uva.nl/entries/logic-modal/)).
+- van Benthem, Modal logic for open minds, Stanford: Center for the Study of Language and Information, 2010.
+- Blackburn, de Rijke and Venema, Modal Logic, Cambridge University Press, 2001 (only the first chapters will be relevant for the course). 
+
+For an introduction to proof theory, you can refer to:
+- Mancosu, Galvan and Zach, An introduction to proof theory, Oxford University Press, 2021. 
+- Troelstra and Schwichtenberg, Basic proof theory, Cambridge University Press, 2000 (only chapters 3 and 4 are relevant for the course).
+
+
+
+
+## Contacts <a name="contacts"></a>
+For any question or comment, you can use the ESSLLI discord server, or reach out to us at tiziano.dalmonte _at_ unibz _dot_ it and m.girlando _at_ uva _dot_ nl 
 
 
 
