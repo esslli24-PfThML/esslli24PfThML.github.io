@@ -31,10 +31,10 @@ To be updated.
 #### Slides
 To be updated. 
 #### References 
-- Negri, Contraction-free sequent calculi for geometric theories with an application to Barr's theorem, Arch. Math. Logic 42, 2003, ([doi](https://link.springer.com/article/10.1007/s001530100124)).
-- Negri, Proof analysis beyond geometric theories: from rule systems to systems of rules, Journal of Logic and Computation 26.2, 2014, ([doi](https://academic.oup.com/logcom/article-abstract/26/2/513/2579508?login=false)).
-- Negri, Proof analysis in modal logic, Journal of Philosophical Logic 34.5, 2005, ([doi](https://link.springer.com/article/10.1007/s10992-005-2267-3)).
-- Negri, Proofs and Countermodels in Non-Classical Logics, Log. Univers. 8, 25–60, 2014, ([doi](https://link.springer.com/article/10.1007/s11787-014-0097-1)).
+- Negri, Contraction-free sequent calculi for geometric theories with an application to Barr's theorem, Arch. Math. Logic 42, 2003 ([doi](https://link.springer.com/article/10.1007/s001530100124)).
+- Negri, Proof analysis beyond geometric theories: from rule systems to systems of rules, Journal of Logic and Computation 26.2, 2014 ([doi](https://academic.oup.com/logcom/article-abstract/26/2/513/2579508?login=false)).
+- Negri, Proof analysis in modal logic, Journal of Philosophical Logic 34.5, 2005 ([doi](https://link.springer.com/article/10.1007/s10992-005-2267-3)).
+- Negri, Proofs and Countermodels in Non-Classical Logics, Log. Univers. 8, 25–60, 2014 ([doi](https://link.springer.com/article/10.1007/s11787-014-0097-1)).
 
 
 
@@ -50,9 +50,9 @@ To be updated.
 #### Slides
 To be updated. 
 #### References 
-- Brünnler, Deep sequent systems for modal logic, Arch. Math. Logic 48, 551–577, 2009, ([doi](https://link.springer.com/article/10.1007/s00153-009-0137-3)).
-- Lellmann, Poggiolesi, Nested Sequents or Tree-hypersequents-A survey Saul Kripke on Modal Logic, 2022, ([pdf](https://hal.science/hal-03590537/)).
-- Marin, Straßburger, Label-free modular systems for classical and intuitionistic modal logics, Advances in Modal Logic 10, 2014, ([pdf](http://www.aiml.net/volumes/volume10/Marin-Strassburger.pdf))). 
+- Brünnler, Deep sequent systems for modal logic, Arch. Math. Logic 48, 551–577, 2009 ([doi](https://link.springer.com/article/10.1007/s00153-009-0137-3)).
+- Lellmann, Poggiolesi, Nested Sequents or Tree-hypersequents-A survey Saul Kripke on Modal Logic, 2022 ([pdf](https://hal.science/hal-03590537/)).
+- Marin, Straßburger, Label-free modular systems for classical and intuitionistic modal logics, Advances in Modal Logic 10, 2014 ([pdf](http://www.aiml.net/volumes/volume10/Marin-Strassburger.pdf))). 
 
 
 ### Lecture 5 - Beyond the S5-cube <a name="l5"></a>
