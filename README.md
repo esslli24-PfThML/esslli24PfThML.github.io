@@ -7,6 +7,11 @@ This webpage contains material and references for the ESSLLI2024 advanced course
 
 ### Table of Contents
 - [Course material](#material)
+  - [Lecture 1 - Sequent Calculi](#l1)
+  - [Lecture 2 - Labelled Proof Systems](#l2)
+  - [Lecture 3 - Hypersequent Systems](#l3) 
+  - [Lecture 4 - Nested Sequents](#l4)
+  - [Lecture 5 - Beyond the S5-cube](#l5)
 - [Prerequisites](#pre)
 - [Contacts](#contacts)
 
@@ -14,7 +19,7 @@ This webpage contains material and references for the ESSLLI2024 advanced course
 ## Course material <a name="material"></a>
 The course material will be regularly updated throughout the course. 
 
-### Lecture 1 - Sequent calculi 
+### Lecture 1 - Sequent Calculi <a name="l1"></a>
 #### Slides
 To be updated. 
 #### References 
@@ -22,7 +27,7 @@ To be updated.
 - Troelstra and Schwichtenberg, Basic proof theory, Cambridge University Press, 2000.
 
 
-### Lecture 2 - Labelled Proof Systems 
+### Lecture 2 - Labelled Proof Systems <a name="l2"></a>
 #### Slides
 To be updated. 
 #### References 
@@ -33,7 +38,7 @@ To be updated.
 
 
 
-### Lecture 3 - Hypersequent Systems
+### Lecture 3 - Hypersequent Systems <a name="l3"></a>
 #### Slides
 To be updated. 
 #### References 
@@ -41,7 +46,7 @@ To be updated.
 
 
 
-### Lecture 4 - Nested Sequents
+### Lecture 4 - Nested Sequents <a name="l4"></a>
 #### Slides
 To be updated. 
 #### References 
@@ -50,7 +55,7 @@ To be updated.
 - Marin, Straßburger, Label-free modular systems for classical and intuitionistic modal logics, Advances in Modal Logic 10, 2014, ([pdf](http://www.aiml.net/volumes/volume10/Marin-Strassburger.pdf))). 
 
 
-### Lecture 5 - Beyond the S5-cube
+### Lecture 5 - Beyond the S5-cube <a name="l5"></a>
 #### Slides
 To be updated. 
 #### References 
