@@ -1,27 +1,26 @@
 # Proof Theory of Modal Logic
-### Webpage for the ESSLLI2024 course Proof Theory of Modal Logic
-### Tiziano Dalmonte and Marianna Girlando 
+### Webpage for the ESSLLI2024 course Proof Theory of Modal Logic - Tiziano Dalmonte and Marianna Girlando 
 
 
 This webpage will contain material and references for the ESSLLI2024 course Proof Theory of Modal Logic. 
 
-This webpage is currently under construction!
+This webpage is currently under construction, and will be regularly updated throughout the course!
 
 ## Course material 
 
-### Lecture 1
+### Lecture 1 - Sequent calculi 
 To be updated. 
 
-### Lecture 2
+### Lecture 2 - Labelled Proof Systems 
 To be updated. 
 
-### Lecture 3
+### Lecture 3 - Hypersequent Systems
 To be updated. 
 
-### Lecture 4
+### Lecture 4 - Nested Sequents
 To be updated. 
 
-### Lecture 5
+### Lecture 5 - Beyond the S5-cube
 To be updated. 
 
 
