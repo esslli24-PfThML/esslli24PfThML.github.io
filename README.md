@@ -79,7 +79,7 @@ For an introduction to proof theory, you can refer to:
 
 
 ## Contacts <a name="contacts"></a>
-For any question or comment, you can use the ESSLLI discord server, or reach out to us at tiziano.dalmonte _at_ unibz _dot_ it and m.girlando _at_ uva _dot_ nl 
+For any question or comment, you can use the ESSLLI discord server, or reach out to us at "tiziano.dalmonte _at_ unibz _dot_ it" and "m.girlando _at_ uva _dot_ nl".  
 
 
 
