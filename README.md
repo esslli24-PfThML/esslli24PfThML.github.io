@@ -21,7 +21,7 @@ The material will be regularly updated throughout the course.
 
 ### Lecture 1 - Sequent Calculi <a name="l1"></a>
 #### Slides
-To be updated. 
+[Slides Lecture 1](lectures/lecture_1.pdf)
 #### References 
 - Blackburn, de Rijke and Venema, Modal Logic, Cambridge University Press, 2001.
 - Troelstra and Schwichtenberg, Basic proof theory, Cambridge University Press, 2000.
