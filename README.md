@@ -3,7 +3,7 @@
 ### [Tiziano Dalmonte](https://dev-www.unibz.it/en/faculties/engineering/academic-staff/person/47069-tiziano-dalmonte) and [Marianna Girlando](https://www.mariannagirlando.com/Girlando.html)
 
 
-This webpage contains material and references for the ESSLLI2024 advanced course Proof Theory of Modal Logic. The course will take place in Week 2 (5-9 August 2024) and consists of five 90-minutes lectures. As course material, we use the slides of the lectures and, possibly, some handouts. The slides of each lecture will contain some exercises that you are encouraged to try to solve! 
+This webpage contains material and references for the [ESSLLI2024](https://2024.esslli.eu/) advanced course Proof Theory of Modal Logic. The course will take place in Week 2 (5-9 August 2024) and consists of five 90-minutes lectures. As course material, we use the slides of the lectures and, possibly, some handouts. The slides of each lecture will contain some exercises that you are encouraged to try to solve! 
 
 ### Table of Contents
 - [Course material](#material)
