@@ -32,6 +32,9 @@ The material will be regularly updated throughout the course.
 [Slides Lecture 2](lectures/lecture_2.pdf) 
 
 Annotated slides to be updated. 
+
+[Exercises Lecture 2](lectures/exercises_lecture_2.pdf) 
+
 #### References 
 - Negri, Contraction-free sequent calculi for geometric theories with an application to Barr's theorem, Arch. Math. Logic 42, 2003 ([doi](https://link.springer.com/article/10.1007/s001530100124)).
 - Negri, Proof analysis beyond geometric theories: from rule systems to systems of rules, Journal of Logic and Computation 26.2, 2016 ([doi](https://academic.oup.com/logcom/article-abstract/26/2/513/2579508?login=false)).
