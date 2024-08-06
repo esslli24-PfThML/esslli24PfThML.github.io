@@ -21,7 +21,7 @@ The material will be regularly updated throughout the course.
 
 ### Lecture 1 - Sequent Calculi <a name="l1"></a>
 #### Slides
-[Slides Lecture 1](lectures/lecture_1.pdf)
+[Slides Lecture 1](lectures/lecture_1_new.pdf)
 #### References 
 - Blackburn, de Rijke and Venema, Modal Logic, Cambridge University Press, 2001.
 - Troelstra and Schwichtenberg, Basic proof theory, Cambridge University Press, 2000.
@@ -29,9 +29,9 @@ The material will be regularly updated throughout the course.
 
 ### Lecture 2 - Labelled Proof Systems <a name="l2"></a>
 #### Slides
-[Slides Lecture 2](lectures/lecture_2.pdf) 
+[Slides Lecture 2](lectures/lecture_2_new.pdf) 
 
-Annotated slides to be updated. 
+[Annotated Slides Lecture 2](lectures/Lecture_2_annotated.pdf) 
 
 [Exercises Lecture 2](lectures/exercises_lecture2.pdf) 
 
