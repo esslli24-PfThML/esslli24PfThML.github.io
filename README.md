@@ -33,7 +33,7 @@ The material will be regularly updated throughout the course.
 
 Annotated slides to be updated. 
 
-[Exercises Lecture 2](lectures/exercises_lecture_2.pdf) 
+[Exercises Lecture 2](lectures/exercises_lecture2.pdf) 
 
 #### References 
 - Negri, Contraction-free sequent calculi for geometric theories with an application to Barr's theorem, Arch. Math. Logic 42, 2003 ([doi](https://link.springer.com/article/10.1007/s001530100124)).
