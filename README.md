@@ -48,7 +48,7 @@ The material will be regularly updated throughout the course.
 
 Annotated slides to be updated 
 
-[Exercises Lecture 3](lectures/exercises_lecture3.pdf) 
+[Exercises Lecture 3](lectures/exercises_lecture3_new.pdf) 
 
 #### Slides part 2: Hypersequent Systems
 To be updated.
