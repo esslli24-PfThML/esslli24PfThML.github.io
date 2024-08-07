@@ -9,9 +9,9 @@ This webpage contains material and references for the [ESSLLI2024](https://2024.
 - [Course material](#material)
   - [Lecture 1 - Sequent Calculi](#l1)
   - [Lecture 2 - Labelled Proof Systems](#l2)
-  - [Lecture 3 - Semantic Completeness and Hypersequent Systems](#l3) 
-  - [Lecture 4 - Nested Sequents](#l4)
-  - [Lecture 5 - Beyond the S5-cube](#l5)
+  - [Lecture 3 - Semantic Completeness of Labelled Calculi](#l3) 
+  - [Lecture 4 - Hypersequent Systems](#l4)
+  - [Lecture 5 - Nested Sequents and Beyond the S5-cube](#l5)
 - [Prerequisites](#pre)
 - [Contacts](#contacts)
 
@@ -42,27 +42,30 @@ The material will be regularly updated throughout the course.
 
 
 
-### Lecture 3 - Semantic Completeness and Hypersequent Systems <a name="l3"></a>
+### Lecture 3 - Semantic Completeness of Labelled Calculi <a name="l3"></a>
 #### Slides part 1: Semantic Completeness of Labelled Calculi
-[Slides Lecture 3, part 1](lectures/lecture_3_part1.pdf) 
+[Slides Lecture 3, part 1](lectures/lecture_3_part1.pdf) - Errata Corrige: The example on page 21 of the file, showcasing termination and countermodel construction for labS4, is too simple: the Annotated version of the slides (below) contains a relevant, but more complex, example. 
 
-Annotated slides to be updated 
+[Annotated Slides Lecture 3](lectures/ESSLLI24_lecture_3_annotated.pdf) - Includes the correct example
 
 [Exercises Lecture 3](lectures/exercises_lecture3_new.pdf) 
 
-#### Slides part 2: Hypersequent Systems
+#### Slides part 2: Hypersequent Systems [not covered, will be part of Lecture 4]
 [Slides Lecture 3, part 2](lectures/lecture_3_part2.pdf) 
 
 
 
 #### References 
+- Garg, Genovese, Negri, Countermodels from sequent calculi in multi-modal logics, 27th Annual IEEE Symposium on Logic in Computer Science, IEEE, 2012 ([pdf](https://people.mpi-sws.org/~dg/papers/lics12.pdf)).
 - Negri, Kripke completeness revisited, Acts of Knowledge: History, Philosophy and Logic: Essays Dedicated to Göran Sundholm, 2009 ([pdf](https://www.mv.helsinki.fi/home/negri/gkcrev.pdf)).
 - Negri, Proofs and Countermodels in Non-Classical Logics, Log. Univers. 8, 25–60, 2014 ([doi](https://link.springer.com/article/10.1007/s11787-014-0097-1)).
 
+#### Additional references  
+- Girlando, Kuznets, Marin, Morales, Strassburger, A Simple Loopcheck for Intuitionistic K, International Workshop on Logic, Language, Information, and Computation. Cham: Springer Nature Switzerland, 2024 ([pdf](https://laas.hal.science/X-DEP-INFO/hal-04569308v1))
 
 
 
-### Lecture 4 - Nested Sequents <a name="l4"></a>
+### Lecture 4 - Hypersequent Systems <a name="l4"></a>
 #### Slides
 To be updated. 
 #### References 
@@ -71,7 +74,7 @@ To be updated.
 - Marin, Straßburger, Label-free modular systems for classical and intuitionistic modal logics, Advances in Modal Logic 10, 2014 ([pdf](http://www.aiml.net/volumes/volume10/Marin-Strassburger.pdf))). 
 
 
-### Lecture 5 - Beyond the S5-cube <a name="l5"></a>
+### Lecture 5 - Nested Sequents and Beyond the S5-cube <a name="l5"></a>
 #### Slides
 To be updated. 
 #### References 
