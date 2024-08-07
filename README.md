@@ -44,7 +44,11 @@ The material will be regularly updated throughout the course.
 
 ### Lecture 3 - Semantic Completeness and Hypersequent Systems <a name="l3"></a>
 #### Slides part 1: Semantic Completeness of Labelled Calculi
-To be updated.
+[Slides Lecture 3, part 1](lectures/lecture_3_part1.pdf) 
+
+Annotated slides to be updated 
+
+[Exercises Lecture 3](lectures/exercises_lecture3.pdf) 
 
 #### Slides part 2: Hypersequent Systems
 To be updated.
