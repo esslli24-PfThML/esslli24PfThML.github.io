@@ -51,7 +51,8 @@ Annotated slides to be updated
 [Exercises Lecture 3](lectures/exercises_lecture3_new.pdf) 
 
 #### Slides part 2: Hypersequent Systems
-To be updated.
+[Slides Lecture 3, part 2](lectures/lecture_3_part2.pdf) 
+
 
 
 #### References 
