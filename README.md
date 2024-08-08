@@ -69,16 +69,20 @@ The material will be regularly updated throughout the course.
 #### Slides
 To be updated. 
 #### References 
-- Brünnler, Deep sequent systems for modal logic, Arch. Math. Logic 48, 551–577, 2009 ([doi](https://link.springer.com/article/10.1007/s00153-009-0137-3)).
-- Lellmann, Poggiolesi, Nested Sequents or Tree-hypersequents-A survey Saul Kripke on Modal Logic, 2022 ([pdf](https://hal.science/hal-03590537/)).
-- Marin, Straßburger, Label-free modular systems for classical and intuitionistic modal logics, Advances in Modal Logic 10, 2014 ([pdf](http://www.aiml.net/volumes/volume10/Marin-Strassburger.pdf))). 
+To be updated.
 
 
 ### Lecture 5 - Nested Sequents and Beyond the S5-cube <a name="l5"></a>
 #### Slides
-To be updated. 
+[Slides Nested Sequents, part 1](lectures/lecture_NS_part1.pdf)
+
+Annotated slides to be updated. 
+
 #### References 
-To be updated. 
+- Brünnler, Deep sequent systems for modal logic, Arch. Math. Logic 48, 551–577, 2009 ([doi](https://link.springer.com/article/10.1007/s00153-009-0137-3)).
+- Brünnler, Nested sequents, Habilitationsschrift, Institut für Informatik und angewandte Mathematik Universität Bern, 2010 ([arXiv](https://arxiv.org/abs/1004.1845)).
+- Lellmann, Poggiolesi, Nested Sequents or Tree-hypersequents-A survey Saul Kripke on Modal Logic, 2022 ([arXiv](https://hal.science/hal-03590537/)).
+- Marin, Straßburger, Label-free modular systems for classical and intuitionistic modal logics, Advances in Modal Logic 10, 2014 ([pdf](http://www.aiml.net/volumes/volume10/Marin-Strassburger.pdf))). 
 
 
 ## Prerequisites <a name="pre"></a>
