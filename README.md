@@ -67,15 +67,21 @@ The material will be regularly updated throughout the course.
 
 
 ### Lecture 4 - Hypersequent Systems <a name="l4"></a>
-#### Slides
+#### Slides - Hypersequent Systems
 [Slides Lecture 4](lectures/lecture_4.pdf) 
+
+#### Slides - Beggining of the Nested Sequents part
+[Slides Nested Sequents, part 1](lectures/lecture_NS_part1.pdf)
+
+[Annotated Slides Nested Sequents, part 1](lectures/lecture_NS_part1_annotated.pdf)
+
 #### References 
 To be updated.
 
 
 ### Lecture 5 - Nested Sequents and Beyond the S5-cube <a name="l5"></a>
 #### Slides
-[Slides Nested Sequents, part 1](lectures/lecture_NS_part1.pdf)
+To be updated. 
 
 Annotated slides to be updated. 
 
