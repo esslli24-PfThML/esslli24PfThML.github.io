@@ -50,8 +50,9 @@ The material will be regularly updated throughout the course.
 
 [Exercises Lecture 3](lectures/exercises_lecture3_new.pdf) 
 
-#### Slides part 2: Hypersequent Systems [not covered, will be part of Lecture 4]
-[Slides Lecture 3, part 2](lectures/lecture_3_part2.pdf) 
+#### Slides part 2: Hypersequent Systems 
+[not covered, will be part of Lecture 4]
+
 
 
 
@@ -67,7 +68,7 @@ The material will be regularly updated throughout the course.
 
 ### Lecture 4 - Hypersequent Systems <a name="l4"></a>
 #### Slides
-To be updated. 
+[Slides Lecture 4](lectures/lecture_4.pdf) 
 #### References 
 To be updated.
 
