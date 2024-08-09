@@ -24,7 +24,7 @@ The material will be regularly updated throughout the course.
 [Slides Lecture 1](lectures/lecture_1_new.pdf)
 
 
-The exercises for Lecture 1 can be found within the Slides.
+The exercises for Lecture 1 can be found within the Slides Lecture 1.
 
 #### References 
 - Blackburn, de Rijke and Venema, Modal Logic, Cambridge University Press, 2001.
@@ -74,7 +74,7 @@ The exercises for Lecture 1 can be found within the Slides.
 #### Slides - Hypersequent Systems
 [Slides Lecture 4](lectures/lecture_4.pdf) 
 
-The exercises for Lecture 4 can be found within the Slides.
+The exercises for Lecture 4 can be found within the Slides Lecture 4.
 
 #### Slides - Beggining of the Nested Sequents part
 The Slides and Annotated Slides for this part are included in the Slides and Annotated Slides of Lecture 5 (see below). 
@@ -87,10 +87,10 @@ The Slides and Annotated Slides for this part are included in the Slides and Ann
 #### Slides
 [Slides Lecture 5](lectures/lecture5.pdf) - Also including the Slides Nested Sequents, part 1 (see previous lecture). 
 
-[Annotated Slides Lecture 5](lectures/lecture_5_annotateed.pdf) - Also including the Annotated Slides Nested Sequents, part 1 (see previous lecture). 
+[Annotated Slides Lecture 5](lectures/lecture_5_annotated.pdf) - Also including the Annotated Slides Nested Sequents, part 1 (see previous lecture). 
 
 
-The exercises for Lecture 5 can be found within the Slides.
+The exercises for Lecture 5 can be found within the Slides Lecture 5.
 
 #### References 
 - Brünnler, Deep sequent systems for modal logic, Arch. Math. Logic 48, 551–577, 2009 ([doi](https://link.springer.com/article/10.1007/s00153-009-0137-3)).
