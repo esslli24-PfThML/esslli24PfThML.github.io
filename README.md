@@ -22,6 +22,10 @@ The material will be regularly updated throughout the course.
 ### Lecture 1 - Sequent Calculi <a name="l1"></a>
 #### Slides
 [Slides Lecture 1](lectures/lecture_1_new.pdf)
+
+
+The exercises for Lecture 1 can be found within the Slides.
+
 #### References 
 - Blackburn, de Rijke and Venema, Modal Logic, Cambridge University Press, 2001.
 - Troelstra and Schwichtenberg, Basic proof theory, Cambridge University Press, 2000.
@@ -70,20 +74,23 @@ The material will be regularly updated throughout the course.
 #### Slides - Hypersequent Systems
 [Slides Lecture 4](lectures/lecture_4.pdf) 
 
-#### Slides - Beggining of the Nested Sequents part
-[Slides Nested Sequents, part 1](lectures/lecture_NS_part1.pdf)
+The exercises for Lecture 4 can be found within the Slides.
 
-[Annotated Slides Nested Sequents, part 1](lectures/lecture_NS_part1_annotated.pdf)
+#### Slides - Beggining of the Nested Sequents part
+The Slides and Annotated Slides for this part are included in the Slides and Annotated Slides of Lecture 5 (see below). 
 
 #### References 
-To be updated.
-
+- Lellmann, Hypersequent rules with restricted contexts for propositional modal logics, Theoretical Computer Science, 656, 2016. 76-105 ([pdf](https://www.sciencedirect.com/science/article/pii/S0304397516305187)).
+- Poggiolesi, A cut-free simple sequent calculus for modal logic S5, Review of Symbolic Logic, 2008 ([pdf](https://shs.hal.science/halshs-00775809/document)).
 
 ### Lecture 5 - Nested Sequents and Beyond the S5-cube <a name="l5"></a>
 #### Slides
 [Slides Lecture 5](lectures/lecture5.pdf) - Also including the Slides Nested Sequents, part 1 (see previous lecture). 
 
-Annotated slides to be updated. 
+[Annotated Slides Lecture 5](lectures/lecture_5_annotateed.pdf) - Also including the Annotated Slides Nested Sequents, part 1 (see previous lecture). 
+
+
+The exercises for Lecture 5 can be found within the Slides.
 
 #### References 
 - Brünnler, Deep sequent systems for modal logic, Arch. Math. Logic 48, 551–577, 2009 ([doi](https://link.springer.com/article/10.1007/s00153-009-0137-3)).
