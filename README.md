@@ -81,7 +81,7 @@ To be updated.
 
 ### Lecture 5 - Nested Sequents and Beyond the S5-cube <a name="l5"></a>
 #### Slides
-To be updated. 
+[Slides Lecture 5](lectures/lecture5.pdf) - Also including the Slides Nested Sequents, part 1 (see previous lecture). 
 
 Annotated slides to be updated. 
 
