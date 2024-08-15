@@ -33,8 +33,6 @@ The exercises for Lecture 1 can be found within the Slides Lecture 1.
 
 ### Lecture 2 - Labelled Proof Systems <a name="l2"></a>
 #### Slides
-[Slides Lecture 2](lectures/lecture_2_new.pdf) 
-
 [Annotated Slides Lecture 2](lectures/Lecture_2_annotated.pdf) 
 
 [Exercises Lecture 2](lectures/exercises_lecture2.pdf) 
@@ -48,7 +46,6 @@ The exercises for Lecture 1 can be found within the Slides Lecture 1.
 
 ### Lecture 3 - Semantic Completeness of Labelled Calculi <a name="l3"></a>
 #### Slides part 1: Semantic Completeness of Labelled Calculi
-[Slides Lecture 3, part 1](lectures/lecture_3_part1.pdf) - Errata Corrige: The example on page 21 of the file, showcasing termination and countermodel construction for labS4, is too simple: the Annotated version of the slides (below) contains a relevant, but more complex, example. 
 
 [Annotated Slides Lecture 3](lectures/ESSLLI24_lecture_3_annotated.pdf) - Includes the correct example
 
@@ -72,12 +69,10 @@ The exercises for Lecture 1 can be found within the Slides Lecture 1.
 
 ### Lecture 4 - Hypersequent Systems <a name="l4"></a>
 #### Slides - Hypersequent Systems
-[Slides Lecture 4](lectures/lecture_4.pdf) 
+[Slides Lecture 4](lectures/lecture_4_new.pdf) 
 
 The exercises for Lecture 4 can be found within the Slides Lecture 4.
 
-#### Slides - Beggining of the Nested Sequents part
-The Slides and Annotated Slides for this part are included in the Slides and Annotated Slides of Lecture 5 (see below). 
 
 #### References 
 - Lellmann, Hypersequent rules with restricted contexts for propositional modal logics, Theoretical Computer Science, 656, 2016. 76-105 ([pdf](https://www.sciencedirect.com/science/article/pii/S0304397516305187)).
@@ -85,9 +80,8 @@ The Slides and Annotated Slides for this part are included in the Slides and Ann
 
 ### Lecture 5 - Nested Sequents and Beyond the S5-cube <a name="l5"></a>
 #### Slides
-[Slides Lecture 5](lectures/lecture5.pdf) - Also including the Slides Nested Sequents, part 1 (see previous lecture). 
 
-[Annotated Slides Lecture 5](lectures/lecture_5_annotated.pdf) - Also including the Annotated Slides Nested Sequents, part 1 (see previous lecture). 
+[Annotated Slides Lecture 5](lectures/lecture_5_annotated.pdf) 
 
 
 The exercises for Lecture 5 can be found within the Slides Lecture 5.
